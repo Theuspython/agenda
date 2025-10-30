@@ -16,9 +16,9 @@
     "date": "2025-10-30",
     "time": "08:30",
     "description": "",
-    "completed": false,
+    "completed": true,
     "id": "d537d79219a35ed32de",
     "createdAt": "2025-10-30T16:22:08.862Z",
-    "updatedAt": "2025-10-30T16:22:08.862Z"
+    "updatedAt": "2025-10-30T16:22:21.711Z"
   }
 ]
